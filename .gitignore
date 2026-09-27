@@ -1,6 +1,7 @@
 node_modules/
 .DS_Store
 # 交付件（本地/离线用，不进仓库）
-*_单文件版.html
-*_可翻页.pdf
+*单文件版*.html
+*可翻页*.pdf
 *长图预览*
+_archive/
