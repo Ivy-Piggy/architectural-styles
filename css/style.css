@@ -248,6 +248,14 @@ section { max-width: 1180px; margin: 0 auto; padding: 74px 26px 0; }
 .el-card svg [stroke] { stroke: var(--mist); }
 .el-card svg .fill { fill: rgba(140,123,150,.14); stroke: none; }
 
+/* ---------- 中国专辑 ---------- */
+.el-card.cn svg [stroke] { stroke: var(--terracotta); }
+.el-card.cn svg .fill { fill: rgba(180,84,58,.14); stroke: none; }
+.el-card.cn:hover { box-shadow: 5px 5px 0 rgba(180,84,58,.12); }
+.card .card-foot .flag { color: var(--amber); font-weight: 700; letter-spacing: .06em; }
+.lede a { border-bottom: 1px solid rgba(180,84,58,.35); }
+.lede a:hover { text-decoration: none; border-bottom-color: var(--terracotta); }
+
 /* ---------- 表格 ---------- */
 .table-wrap { margin-top: 26px; border: 1px solid var(--line); background: var(--paper-2); overflow-x: auto; }
 table { border-collapse: collapse; width: 100%; font-size: 13.5px; min-width: 780px; }
@@ -317,6 +325,7 @@ footer {
 }
 @media (max-width: 768px) {
   body { font-size: 15.5px; }
+  .region .filters { margin-top: 18px; }
   .nav-links { gap: 14px; }
   .nav-links a { font-size: 12.5px; }
   .hero-meta div { border-right: 0; padding-right: 0; margin-right: 18px; }

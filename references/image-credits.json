@@ -148,5 +148,135 @@
   "site_web_size_mb": 3.53,
   "web_file": "images/abu_simbel.jpg",
   "description": "The image shows the frontal view of the façade of the Great Temple of Abu Simbel built by Ramesses II, cleared of the sand."
+ },
+ "gugong": {
+  "条目": "故宫",
+  "commons_file": "Hall of Supreme Harmony in snow (20220318153516).jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3AHall%20of%20Supreme%20Harmony%20in%20snow%20%2820220318153516%29.jpg",
+  "author": "<a href=\"//commons.wikimedia.org/wiki/User:N509FZ\" title=\"User:N509FZ\">N509FZ</a>",
+  "license": "CC BY-SA 4.0",
+  "site_web_size_mb": 0.52,
+  "web_file": "images/gugong.jpg",
+  "description": "中国古代建筑板块配图（2026-09-27 增补）"
+ },
+ "tiantan": {
+  "条目": "天坛",
+  "commons_file": "20200110 Temple of Heaven-1.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3A20200110%20Temple%20of%20Heaven-1.jpg",
+  "author": "<div class=\"fn value\">\n<a href=\"//commons.wikimedia.org/wiki/User:Balon_Greyjoy\" title=\"User:Balon Greyjoy\">Balon Greyjoy</a></div>",
+  "license": "CC0",
+  "site_web_size_mb": 0.67,
+  "web_file": "images/tiantan.jpg",
+  "description": "中国古代建筑板块配图（2026-09-27 增补）"
+ },
+ "yiheyuan": {
+  "条目": "颐和园·佛香阁",
+  "commons_file": "Tower of Buddhist Incense from Longevity Hill, Summer Palace, Beijing.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3ATower%20of%20Buddhist%20Incense%20from%20Longevity%20Hill%2C%20Summer%20Palace%2C%20Beijing.jpg",
+  "author": "<a href=\"//commons.wikimedia.org/wiki/User:Daniel_Case\" title=\"User:Daniel Case\">Daniel Case</a>",
+  "license": "CC BY-SA 3.0",
+  "site_web_size_mb": 0.78,
+  "web_file": "images/yiheyuan.jpg",
+  "description": "中国古代建筑板块配图（2026-09-27 增补）"
+ },
+ "budala": {
+  "条目": "布达拉宫",
+  "commons_file": "Tibet - Lhasa - Potala Palace - 6406925781.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3ATibet%20-%20Lhasa%20-%20Potala%20Palace%20-%206406925781.jpg",
+  "author": "Göran Höglund (Kartläsarn)",
+  "license": "CC BY 2.0",
+  "site_web_size_mb": 0.25,
+  "web_file": "images/budala.jpg",
+  "description": "中国古代建筑板块配图（2026-09-27 增补）"
+ },
+ "zhuozhengyuan": {
+  "条目": "拙政园",
+  "commons_file": "Humble Administrator's Garden Suzhou November 2017 004.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3AHumble%20Administrator%27s%20Garden%20Suzhou%20November%202017%20004.jpg",
+  "author": "<a href=\"//commons.wikimedia.org/wiki/User:King_of_Hearts\" title=\"User:King of Hearts\">King of Hearts</a>",
+  "license": "CC BY-SA 4.0",
+  "site_web_size_mb": 0.34,
+  "web_file": "images/zhuozhengyuan.jpg",
+  "description": "中国古代建筑板块配图（2026-09-27 增补）"
+ },
+ "yingxian_muta": {
+  "条目": "佛宫寺释迦塔（应县木塔）",
+  "commons_file": "Yingxian Fogong Si Shijia Ta 2013.08.30 12-40-59.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3AYingxian%20Fogong%20Si%20Shijia%20Ta%202013.08.30%2012-40-59.jpg",
+  "author": "<a href=\"//commons.wikimedia.org/wiki/User:Zhangzhugang\" title=\"User:Zhangzhugang\">Zhangzhugang</a>",
+  "license": "CC BY-SA 3.0",
+  "site_web_size_mb": 0.63,
+  "web_file": "images/yingxian_muta.jpg",
+  "description": "中国古代建筑板块配图（2026-09-27 增补）"
+ },
+ "xuankongsi": {
+  "条目": "悬空寺",
+  "commons_file": "Hunyuan Xuankong Si 2013.08.30 09-02-11.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3AHunyuan%20Xuankong%20Si%202013.08.30%2009-02-11.jpg",
+  "author": "<a href=\"//commons.wikimedia.org/wiki/User:Zhangzhugang\" title=\"User:Zhangzhugang\">Zhangzhugang</a>",
+  "license": "CC BY-SA 3.0",
+  "site_web_size_mb": 0.66,
+  "web_file": "images/xuankongsi.jpg",
+  "description": "中国古代建筑板块配图（2026-09-27 增补）"
+ },
+ "songyue": {
+  "条目": "嵩岳寺塔",
+  "commons_file": "523 AD Songyue Monastery Pagoda, Northern Wei, Oldest Chinese Brick Pagoda in Existence 03.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3A523%20AD%20Songyue%20Monastery%20Pagoda%2C%20Northern%20Wei%2C%20Oldest%20Chinese%20Brick%20Pagoda%20in%20Existence%2003.jpg",
+  "author": "Gary Todd",
+  "license": "CC0",
+  "site_web_size_mb": 0.2,
+  "web_file": "images/songyue.jpg",
+  "description": "中国古代建筑板块配图（2026-09-27 增补）"
+ },
+ "tengwangge": {
+  "条目": "滕王阁",
+  "commons_file": "Tengwang Pavilion, Nanchang.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3ATengwang%20Pavilion%2C%20Nanchang.jpg",
+  "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ashishgopal1&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ashishgopal1 (page does not exist)\">Ashish Yadav</a>",
+  "license": "CC BY-SA 4.0",
+  "site_web_size_mb": 0.29,
+  "web_file": "images/tengwangge.jpg",
+  "description": "中国古代建筑板块配图（2026-09-27 增补）"
+ },
+ "hongyadong": {
+  "条目": "洪崖洞",
+  "commons_file": "Hongyadong night lights Chongqing.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3AHongyadong%20night%20lights%20Chongqing.jpg",
+  "author": "<a href=\"//commons.wikimedia.org/wiki/User:Lianguanlun\" title=\"User:Lianguanlun\">Lianguanlun</a>",
+  "license": "CC BY 4.0",
+  "site_web_size_mb": 0.81,
+  "web_file": "images/hongyadong.jpg",
+  "description": "中国古代建筑板块配图（2026-09-27 增补）"
+ },
+ "siheyuan": {
+  "条目": "四合院",
+  "commons_file": "北京空竹博物馆四合院.JPG",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3A%E5%8C%97%E4%BA%AC%E7%A9%BA%E7%AB%B9%E5%8D%9A%E7%89%A9%E9%A6%86%E5%9B%9B%E5%90%88%E9%99%A2.JPG",
+  "author": "三猎",
+  "license": "CC BY-SA 4.0",
+  "site_web_size_mb": 0.35,
+  "web_file": "images/siheyuan.jpg",
+  "description": "中国古代建筑板块配图（2026-09-27 增补）"
+ },
+ "dougong": {
+  "条目": "《营造法式》（配图：宋辽斗拱实例）",
+  "commons_file": "Guanyin Pavilion of Dule Temple.JPG",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3AGuanyin%20Pavilion%20of%20Dule%20Temple.JPG",
+  "author": "Xin",
+  "license": "CC BY-SA 4.0",
+  "site_web_size_mb": 0.25,
+  "web_file": "images/dougong.jpg",
+  "description": "中国古代建筑板块配图（2026-09-27 增补）"
+ },
+ "parametric_case_01": {
+  "条目": "玄武湖畔「水母」造型建筑（待录入 · 时期四 H 参数化）",
+  "commons_file": "-",
+  "commons_page": "-",
+  "author": "朱晓飞（作者本人案例）",
+  "license": "版权归作者",
+  "site_web_size_mb": 0.21,
+  "web_file": "images/parametric/parametric-case-01.jpg",
+  "description": "作者自绘参数化设计案例，2026-09-27 归档，待正式录入条目卡"
  }
 }

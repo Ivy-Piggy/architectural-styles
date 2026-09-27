@@ -36,13 +36,16 @@
 
   /* ---------- 条目卡筛选 ---------- */
   var filterBtns = document.querySelectorAll('.filters button');
-  var cards = Array.prototype.slice.call(document.querySelectorAll('#p1 .card'));
+  var cards = Array.prototype.slice.call(document.querySelectorAll('.card[data-era]'));
   filterBtns.forEach(function (btn) {
+    var scope = btn.closest('section') || document;
+    var scopeBtns = scope.querySelectorAll('.filters button');
+    var set = Array.prototype.slice.call(scope.querySelectorAll('.card[data-era]'));
     btn.addEventListener('click', function () {
-      filterBtns.forEach(function (b) { b.classList.remove('active'); });
+      scopeBtns.forEach(function (b) { b.classList.remove('active'); });
       btn.classList.add('active');
       var f = btn.dataset.filter;
-      cards.forEach(function (c) {
+      set.forEach(function (c) {
         c.classList.toggle('hidden', f !== 'all' && c.dataset.era !== f);
       });
       // 卡片数量变化后重建 lightbox 索引
@@ -101,7 +104,7 @@
     showLB();
   }
 
-  document.querySelectorAll('#p1 .thumb').forEach(function (th) {
+  document.querySelectorAll('.thumb').forEach(function (th) {
     th.addEventListener('click', function () {
       var card = th.closest('.card');
       if (card) openLB(card);
