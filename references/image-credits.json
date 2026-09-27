@@ -278,5 +278,105 @@
   "site_web_size_mb": 0.21,
   "web_file": "images/parametric/parametric-case-01.jpg",
   "description": "作者自绘参数化设计案例，2026-09-27 归档，待正式录入条目卡"
+ },
+ "palenque": {
+  "条目": "碑铭神庙（帕伦克）",
+  "commons_file": "Palenque, Temple of the Inscriptions (20498755918).jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3APalenque%2C%20Temple%20of%20the%20Inscriptions%20%2820498755918%29.jpg",
+  "author": "Arian Zwegers from Brussels, Belgium",
+  "license": "CC BY 2.0",
+  "site_web_size_mb": 0.51,
+  "web_file": "images/palenque.jpg",
+  "description": "前哥伦布美洲板块配图（2026-09-27 增补）"
+ },
+ "cempoala": {
+  "条目": "坎波拉石圈",
+  "commons_file": "Cempoala, Circle of Gladiators, Great Temple, and Temple of the Chimneys (20693479401).jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3ACempoala%2C%20Circle%20of%20Gladiators%2C%20Great%20Temple%2C%20and%20Temple%20of%20the%20Chimneys%20%2820693479401%29.jpg",
+  "author": "Arian Zwegers from Brussels, Belgium",
+  "license": "CC BY 2.0",
+  "site_web_size_mb": 0.35,
+  "web_file": "images/cempoala.jpg",
+  "description": "前哥伦布美洲板块配图（2026-09-27 增补）"
+ },
+ "copan": {
+  "条目": "科潘古城",
+  "commons_file": "Copán archaeological site, Honduras 19.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3ACop%C3%A1n%20archaeological%20site%2C%20Honduras%2019.jpg",
+  "author": "Ridiculopathy",
+  "license": "CC0",
+  "site_web_size_mb": 0.48,
+  "web_file": "images/copan.jpg",
+  "description": "前哥伦布美洲板块配图（2026-09-27 增补）"
+ },
+ "tikal": {
+  "条目": "二号神庙（蒂卡尔）",
+  "commons_file": "Tikal Temple II, 2022 01.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3ATikal%20Temple%20II%2C%202022%2001.jpg",
+  "author": "Simon Burchell",
+  "license": "CC BY-SA 4.0",
+  "site_web_size_mb": 0.56,
+  "web_file": "images/tikal.jpg",
+  "description": "前哥伦布美洲板块配图（2026-09-27 增补）"
+ },
+ "caracol": {
+  "条目": "卡拉科尔天文台",
+  "commons_file": "Chichen Itza, the Observatory (14372459224).jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3AChichen%20Itza%2C%20the%20Observatory%20%2814372459224%29.jpg",
+  "author": "Arian Zwegers from Brussels, Belgium",
+  "license": "CC BY 2.0",
+  "site_web_size_mb": 0.37,
+  "web_file": "images/caracol.jpg",
+  "description": "前哥伦布美洲板块配图（2026-09-27 增补）"
+ },
+ "guerreros": {
+  "条目": "战士神庙",
+  "commons_file": "Chichen Itza - Templo de los Guerreros 1.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3AChichen%20Itza%20-%20Templo%20de%20los%20Guerreros%201.jpg",
+  "author": "Wolfgang Sauber",
+  "license": "CC BY-SA 3.0",
+  "site_web_size_mb": 0.37,
+  "web_file": "images/guerreros.jpg",
+  "description": "前哥伦布美洲板块配图（2026-09-27 增补）"
+ },
+ "islaluna": {
+  "条目": "太阳贞女宫（月亮岛）",
+  "commons_file": "Isla de la Luna - panoramio (1).jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3AIsla%20de%20la%20Luna%20-%20panoramio%20%281%29.jpg",
+  "author": "TMbux",
+  "license": "CC BY-SA 3.0",
+  "site_web_size_mb": 0.34,
+  "web_file": "images/islaluna.jpg",
+  "description": "前哥伦布美洲板块配图（2026-09-27 增补）"
+ },
+ "machupicchu": {
+  "条目": "马丘比丘",
+  "commons_file": "80 - Machu Picchu - Juin 2009 - edit.2.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3A80%20-%20Machu%20Picchu%20-%20Juin%202009%20-%20edit.2.jpg",
+  "author": "Martin St-Amant ( S23678 )",
+  "license": "CC BY-SA 3.0",
+  "site_web_size_mb": 0.59,
+  "web_file": "images/machupicchu.jpg",
+  "description": "前哥伦布美洲板块配图（2026-09-27 增补）"
+ },
+ "xochicalco": {
+  "条目": "羽蛇神庙",
+  "commons_file": "Templo de la Serpiente Emplumada, Norte.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3ATemplo%20de%20la%20Serpiente%20Emplumada%2C%20Norte.jpg",
+  "author": "Anapaominchaca",
+  "license": "CC BY-SA 4.0",
+  "site_web_size_mb": 0.73,
+  "web_file": "images/xochicalco.jpg",
+  "description": "前哥伦布美洲板块配图（2026-09-27 增补）"
+ },
+ "acatitlan": {
+  "条目": "圣塞西莉亚阿卡提兰遗址",
+  "commons_file": "Pirámide Santa Cecilia Acatitlán.JPG",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3APir%C3%A1mide%20Santa%20Cecilia%20Acatitl%C3%A1n.JPG",
+  "author": "Comunitecnico",
+  "license": "CC BY-SA 3.0",
+  "site_web_size_mb": 0.48,
+  "web_file": "images/acatitlan.jpg",
+  "description": "前哥伦布美洲板块配图（2026-09-27 增补）"
  }
 }
