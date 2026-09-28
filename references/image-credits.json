@@ -270,14 +270,14 @@
   "description": "中国古代建筑板块配图（2026-09-27 增补）"
  },
  "parametric_case_01": {
-  "条目": "玄武湖畔「水母」造型建筑（待录入 · 时期四 H 参数化）",
-  "commons_file": "-",
-  "commons_page": "-",
-  "author": "朱晓飞（作者本人案例）",
-  "license": "版权归作者",
+  "条目": "玄武湖畔「水母」造型建筑（作者本人案例 · 第 39 条）",
+  "commons_file": "—（非 Commons 素材，作者本人作品）",
+  "commons_page": "—",
+  "author": "朱晓飞",
+  "license": "版权归作者（保留所有权利；本站经作者本人授权展示）",
   "site_web_size_mb": 0.21,
   "web_file": "images/parametric/parametric-case-01.jpg",
-  "description": "作者自绘参数化设计案例，2026-09-27 归档，待正式录入条目卡"
+  "description": "数字化参数化方案效果图，1922×1080，2026 年；录入时期四 · H 分支（2026-09-28）。项目正式名称 / 落成状态 / 建模软件与关键参数待补。"
  },
  "palenque": {
   "条目": "碑铭神庙（帕伦克）",
