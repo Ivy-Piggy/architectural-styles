@@ -444,5 +444,93 @@
     "web_file": "images/maenad_antefix.jpg",
     "description": "<div class=\"description\">\nEtruscan, Cerveteri; Antefix; Terracottas</div>",
     "dimensions": "1600x1333"
+  },
+  "parthenon": {
+    "条目": "帕特农神庙",
+    "commons_file": "Parthenon east side Acropolis Athens, Greece.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/Parthenon_east_side_Acropolis_Athens,_Greece.jpg",
+    "author": "Jebulon",
+    "license": "CC0",
+    "site_web_size_mb": 0.34,
+    "web_file": "images/parthenon.jpg",
+    "description": "South-Est view of the Parthenon. Acropolis, Athens, Greece.",
+    "dimensions": "1600x1188"
+  },
+  "erechtheion": {
+    "条目": "伊瑞克提翁神庙",
+    "commons_file": "Erechtheion (Athens) with the Caryatid Porch in 2017.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/Erechtheion_(Athens)_with_the_Caryatid_Porch_in_2017.jpg",
+    "author": "Gregor Hagedorn",
+    "license": "CC BY-SA 4.0",
+    "site_web_size_mb": 0.37,
+    "web_file": "images/erechtheion.jpg",
+    "description": "Erechtheion (Athens) with the Caryatid Porch in 2017",
+    "dimensions": "1600x1182"
+  },
+  "hephaisteion": {
+    "条目": "赫菲斯托斯神庙",
+    "commons_file": "Temple of Hephaestus from ancient agora Athens.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/Temple_of_Hephaestus_from_ancient_agora_Athens.jpg",
+    "author": "Jebulon",
+    "license": "CC0",
+    "site_web_size_mb": 0.61,
+    "web_file": "images/hephaisteion.jpg",
+    "description": "The temple of Hephaestus, as seen from the Ancient Agora, Athens, Greece.",
+    "dimensions": "1600x1065"
+  },
+  "athena_nike": {
+    "条目": "雅典娜胜利神庙",
+    "commons_file": "Temple of Athena Nikè from Propylaea, Acropolis, Athens, Greece.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/Temple_of_Athena_Nikè_from_Propylaea,_Acropolis,_Athens,_Greece.jpg",
+    "author": "Jebulon",
+    "license": "CC0",
+    "site_web_size_mb": 0.24,
+    "web_file": "images/athena_nike.jpg",
+    "description": "Temple of Athena Nike, from Propylaea, Acropolis, Athens, Greece.",
+    "dimensions": "1600x1112"
+  },
+  "olympieion": {
+    "条目": "奥林匹亚宙斯神庙",
+    "commons_file": "Temple of Zeus Olympian, Athens, Greece.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/Temple_of_Zeus_Olympian,_Athens,_Greece.jpg",
+    "author": "Jebulon",
+    "license": "CC0",
+    "site_web_size_mb": 0.42,
+    "web_file": "images/olympieion.jpg",
+    "description": "Ruins of Temple of Zeus Olympian, Athens, Greece",
+    "dimensions": "1600x1065"
+  },
+  "lysicrates": {
+    "条目": "李西克拉特音乐纪念碑",
+    "commons_file": "The Choragic Monument of Lysicrates on August 11, 2019.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/The_Choragic_Monument_of_Lysicrates_on_August_11,_2019.jpg",
+    "author": "George E. Koronaios",
+    "license": "CC BY-SA 4.0",
+    "site_web_size_mb": 0.55,
+    "web_file": "images/lysicrates.jpg",
+    "description": "The Choragic Monument of Lysicrates on August 11, 2019.",
+    "dimensions": "1600x1067"
+  },
+  "tower_winds": {
+    "条目": "风之塔",
+    "commons_file": "Tower of the Winds, Roman Agora, Athens, Greece.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/Tower_of_the_Winds,_Roman_Agora,_Athens,_Greece.jpg",
+    "author": "Jebulon",
+    "license": "CC0",
+    "site_web_size_mb": 0.47,
+    "web_file": "images/tower_winds.jpg",
+    "description": "The Tower of the Winds, Lycabettus hill in background, Athens, Greece.",
+    "dimensions": "1067x1600"
+  },
+  "siphnian": {
+    "条目": "西弗诺斯宝库檐壁",
+    "commons_file": "Relief from Treasury of Siphnians, 525 BC, AM Delphi, 201338.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/Relief_from_Treasury_of_Siphnians,_525_BC,_AM_Delphi,_201338.jpg",
+    "author": "Zde",
+    "license": "CC BY-SA 4.0",
+    "site_web_size_mb": 0.49,
+    "web_file": "images/siphnian.jpg",
+    "description": "Relief from the northern side of the Treasury of Siphnians, 525 BC. Archaeological Museum of Delphi.",
+    "dimensions": "1600x1064"
   }
 }
