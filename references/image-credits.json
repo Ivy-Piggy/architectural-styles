@@ -816,5 +816,15 @@
   "web_file": "images/bc_mengshan.jpg",
   "site_web_size_mb": 0.2,
   "orig_size": "1471x718"
+ },
+ "bc_kumtura": {
+  "条目": "库木吐喇石窟",
+  "commons_file": "Kuntula Grottoes 1, Kuqa.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3AKuntula_Grottoes_1%2C_Kuqa.jpg",
+  "author": "Yoshi Canopus",
+  "license": "CC BY-SA 3.0",
+  "web_file": "images/bc_kumtura.jpg",
+  "site_web_size_mb": 0.41,
+  "orig_size": "3216x2136"
  }
 }

@@ -249,7 +249,7 @@
 
 ## 六、本批成卡记录（2026-10-07）
 
-原「五、可衔接的构架位置」建议的**跨期专列**已建成：网页新板块 `§08 佛教石窟东传 · 跨期专列`，条目卡编号 **第 61–80 条**（共 20 张），登记表同步扩至 80 行，图片来源表 79 行。
+原「五、可衔接的构架位置」建议的**跨期专列**已建成：网页新板块 `§08 佛教石窟东传 · 跨期专列`，条目卡编号 **第 61–81 条**（共 21 张），登记表同步扩至 80 行，图片来源表 79 行。
 
 ### 区块 → 卡片对照
 
@@ -258,7 +258,7 @@
 | A | 印度：佛教石窟的起源 | 61–64 | 巴尔胡特大塔 / 阿玛拉瓦提大塔 / 阿旃陀石窟 / 卡尔拉支提窟 |
 | B | 犍陀罗（贵霜）· 以塔为中心的寺院 | 65–66 | 达摩拉吉卡塔（塔克西拉）/ 塔赫特伊巴希寺院 |
 | C | 中亚：阿姆河—锡尔河流域的佛寺 | 67–68 | 卡拉切佩佛寺（铁尔梅兹）/ 阿吉纳切佩佛寺 |
-| D | 西域（新疆）：龟兹与高昌 | 69–71 | 克孜尔石窟 / 苏巴什佛寺（昭怙厘寺）/ 柏孜克里克千佛洞 |
+| D | 西域（新疆）：龟兹与高昌 | 69–71 · 81 | 克孜尔石窟 / 苏巴什佛寺（昭怙厘寺）/ 柏孜克里克千佛洞 / **库木吐喇石窟** |
 | E | 河西走廊 · 凉州模式 | 72–75 | 天梯山石窟 / 炳灵寺石窟 / 麦积山石窟 / 莫高窟 |
 | F | 中原北方 · 南北朝 | 76–77 | 云冈石窟 / 龙门石窟 |
 | G | 邺城 · 响堂模式（北齐） | 78–80 | 北响堂山大佛洞（鼓山）/ 南响堂山石窟（滏山·千佛洞）/ 蒙山大佛（晋阳西山大佛） |
@@ -269,3 +269,48 @@
 2. **碎叶城（阿克-贝希姆）未单独成卡**：Wikimedia Commons 无该遗址可用照片（检索到的均为地图/书页）。已在区块 C 的 `trait-list` 中以文字说明「6–8 世纪楚河流域的碎叶城亦建有佛寺（无公版图，仅入笔记）」，未配图。
 3. **配图全部取自 Wikimedia Commons 开放授权**（CC BY / CC BY-SA / CC0 / 公有领域），逐张在图片来源表与 `image-credits.json` 标注作者与许可。**展厅实拍照片含第三方版权，未上网**。
 4. **存疑已标「待核」**：阿吉纳切佩涅槃佛像长度（约 13 米）、炳灵寺 169 窟建弘元年（420）题记、莫高窟现存洞窟数（735 个 / 壁画 4.5 万㎡ / 彩塑 2400 余尊）、蒙山大佛佛首后代重补（2008 年新凿）。其余表述取自展厅展板正文。
+
+---
+
+## 七、补齐记录（2026-10-07 晚间）
+
+### 1. 碎叶城 —— 未成卡（技术性缺图，非遗漏）
+
+多语言检索 Commons（`Suyab`／`Суяб`／`Ак-Бешим`／`Ak-Beshim`／`Krasnaya Rechka`，并查 Category:Suyab / Ak-Beshim）与 ru / en 维基条目配图：**该遗址在 Commons 上没有任何可用照片**（仅地图、书页、以及一张「楚河河谷农田照」E7993-Milyanfan-fields.jpg，非建筑内容，不采用）。
+
+处理：保留在**区块 C 的 trait-list** 中以文字说明（「6–8 世纪楚河流域的碎叶城亦建有佛寺（无公版图，仅入笔记）」），不配图、不成卡。
+
+### 2. 补卡：库木吐喇石窟（第 81 条）
+
+因 D 区块「少一条」的缺口，改用**展览 PART 4 原文本就点名的**「克孜尔 · 库木吐喇 · 森木塞姆」中的**库木吐喇石窟**补位（同一批龟兹石窟，非新增外部内容）：
+
+- 位置：新疆库车，渭干河崖壁，绵延约 3 公里，**共 112 窟**；开凿晚于克孜尔，延续千年。
+- 窟型：中心塔柱窟、殿式窟、支提窟、毗诃罗窟、僧房窟、罗汉窟。
+- 壁画三期：早期（3–6 世纪）龟兹风（铁线描、凹凸法、人体晕染）；中期（7 世纪）汉唐风与龟兹风并存，转向大乘；晚期（9 世纪）龟兹回鹘风。
+- 配图：`File:Kuntula Grottoes 1, Kuqa.jpg`（Yoshi Canopus，CC BY-SA 3.0）。
+
+### 3. 待核定稿（本轮全部核实完毕）
+
+| 原「待核」项 | 核实结果 | 处理 |
+|---|---|---|
+| 蒙山大佛佛首后代重补 | 元代末年佛首失落；2007–2008 年参照太原出土北齐佛头新修，**新佛头高约 12 米**；2008 年 10 月景区开放 | 已写实，去 flag |
+| 蒙山大佛原高 | 古籍记「高二百尺」（约 59 米）；实测腿底至颈约 30 米 + 原佛头约 10 米 + 基座 6 米 → **原本通高约 46 米** | 补入「通高约 46 米」 |
+| 阿吉纳切佩涅槃佛像长度 | 各来源口径不一，未见权威定值 | **删去具体数字**，只保留「出土巨型涅槃佛像」 |
+| 炳灵寺 169 窟建弘元年题记 | 确为**西秦建弘元年（420 年）墨书题记**，为该处最早纪年 | 去 flag，写实 |
+| 莫高窟现存规模 | **洞窟 735 个、壁画约 4.5 万㎡、泥质彩塑 2415 尊** | 2400 余尊 → **2415 尊**，去 flag |
+
+### 4. PART 1 / PART 2 英文板块页（中英对照体例补足）
+
+原仅有 PART 3–7 的板块标题页有英文。本轮补齐首两板块（并同步把 7 个区块的英文标题挂上网页）：
+
+**PART 1 · BUDDHIST CAVES IN INDIA — ORIGINS**
+Buddhist architecture begins in India in the 3rd century BCE with the stupa — a dome-shaped mound enshrining relics of the Buddha — and with rock-cut sanctuaries. Two cave types were established: the *chaitya* hall, a long apsidal hall with a stupa at its far end for worship, and the *vihara*, a square court ringed by monks' cells for dwelling. Cut from living rock, their details imitate timber construction.
+
+**PART 2 · GANDHARA (KUSHAN) BUDDHIST ART**
+In Gandhara the meeting of Greek sculptural tradition and Buddhism gave the Buddha his human form. Monasteries were laid out as a square stupa court ringed by monks' cells, the great stupa standing at the centre as the focus of worship. Schist, stucco and mud-brick were the usual materials. Under the Kushan empire (1st–3rd century CE) monasteries and images were built on a large scale, opening the great age of Buddhist building.
+
+**PART 3–7** 英文标题沿展厅原板：`BUDDHIST CAVES IN CENTRAL ASIA` / `BUDDHIST GROTTOES IN XINJIANG` / `LIANGZHOU PATTERN IN THE HEXI CORRIDOR` / `GROTTOES IN CENTRAL CHINA` / `XIANGTANGSHAN CAVES AND BUDDHIST ART`。
+
+### 5. 本轮后计数
+
+条目卡 **81** / 登记表 **81 行** / 图片来源表 **80 行**；新板块内已无「待核」标记。
