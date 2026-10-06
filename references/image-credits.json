@@ -616,5 +616,205 @@
   "description": "Pont du Gard, commune of Vers-Pont-du-Gard, Gard, France This place is a UNESCO World Heritage Site, listed as “Pont du Gard”. asturianu · avañe'ẽ · bahasa Indonesia · català · čeština · dansk · Deutsch · English · español · euskara · français · hrvatski · italiano · latviešu · magyar · Nederlands ·",
   "dimensions": "1600x1079",
   "orig_dimensions": "5457x3681"
+ },
+ "bc_bharhut": {
+  "条目": "巴尔胡特大塔",
+  "commons_file": "Bharhut Stupa.JPG",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3ABharhut_Stupa.JPG",
+  "author": "LRBurdak",
+  "license": "CC BY-SA 3.0",
+  "web_file": "images/bc_bharhut.jpg",
+  "site_web_size_mb": 0.67,
+  "orig_size": "2592x1944"
+ },
+ "bc_amaravati": {
+  "条目": "阿玛拉瓦提大塔",
+  "commons_file": "Amaravathi mahachaitya.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3AAmaravathi_mahachaitya.jpg",
+  "author": "IM3847",
+  "license": "CC BY-SA 4.0",
+  "web_file": "images/bc_amaravati.jpg",
+  "site_web_size_mb": 0.53,
+  "orig_size": "4032x3024"
+ },
+ "bc_ajanta": {
+  "条目": "阿旃陀石窟",
+  "commons_file": "Ajanta Caves from Cave 26.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3AAjanta_Caves_from_Cave_26.jpg",
+  "author": "Shishirdasika",
+  "license": "CC BY-SA 4.0",
+  "web_file": "images/bc_ajanta.jpg",
+  "site_web_size_mb": 0.49,
+  "orig_size": "5198x3462"
+ },
+ "bc_karla": {
+  "条目": "卡尔拉支提窟",
+  "commons_file": "Entrance of Karla Caves.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3AEntrance_of_Karla_Caves.jpg",
+  "author": "Riffythomas",
+  "license": "CC BY-SA 4.0",
+  "web_file": "images/bc_karla.jpg",
+  "site_web_size_mb": 0.27,
+  "orig_size": "7608x3983"
+ },
+ "bc_dharmarajika": {
+  "条目": "达摩拉吉卡塔（塔克西拉）",
+  "commons_file": "Dharmarajika Stupa Pakistan 07.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3ADharmarajika_Stupa_Pakistan_07.jpg",
+  "author": "MahedAli",
+  "license": "CC BY-SA 4.0",
+  "web_file": "images/bc_dharmarajika.jpg",
+  "site_web_size_mb": 0.44,
+  "orig_size": "6000x4000"
+ },
+ "bc_takhtibahi": {
+  "条目": "塔赫特伊巴希寺院",
+  "commons_file": "Takht-i-BahiGesamt.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3ATakht-i-BahiGesamt.jpg",
+  "author": "Ziegler175",
+  "license": "CC BY-SA 3.0",
+  "web_file": "images/bc_takhtibahi.jpg",
+  "site_web_size_mb": 0.71,
+  "orig_size": "3190x2089"
+ },
+ "bc_karatepe": {
+  "条目": "卡拉切佩佛寺（铁尔梅兹）",
+  "commons_file": "Qoratepa-11.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3AQoratepa-11.jpg",
+  "author": "Marat Nadjibaev",
+  "license": "CC BY-SA 4.0",
+  "web_file": "images/bc_karatepe.jpg",
+  "site_web_size_mb": 0.56,
+  "orig_size": "8192x5464"
+ },
+ "bc_ajinatepe": {
+  "条目": "阿吉纳切佩佛寺",
+  "commons_file": "Ajina-Tepa.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3AAjina-Tepa.jpg",
+  "author": "Danny Roper",
+  "license": "CC BY-SA 3.0",
+  "web_file": "images/bc_ajinatepe.jpg",
+  "site_web_size_mb": 0.4,
+  "orig_size": "3008x2000"
+ },
+ "bc_kizil": {
+  "条目": "克孜尔石窟",
+  "commons_file": "Kizil caves 2006 10 01.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3AKizil_caves_2006_10_01.jpg",
+  "author": "Rolfmueller",
+  "license": "CC BY-SA 3.0",
+  "web_file": "images/bc_kizil.jpg",
+  "site_web_size_mb": 0.4,
+  "orig_size": "1728x1152"
+ },
+ "bc_subashi": {
+  "条目": "苏巴什佛寺",
+  "commons_file": "Kuche - Kuqa Subashi Ruins.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3AKuche_-_Kuqa_Subashi_Ruins.jpg",
+  "author": "Scott Newman",
+  "license": "CC BY-SA 2.0",
+  "web_file": "images/bc_subashi.jpg",
+  "site_web_size_mb": 0.33,
+  "orig_size": "4288x2848"
+ },
+ "bc_bezeklik": {
+  "条目": "柏孜克里克千佛洞",
+  "commons_file": "Bezeklik Thousand Buddha Caves (23367458033).jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3ABezeklik_Thousand_Buddha_Caves_%2823367458033%29.jpg",
+  "author": "Laika ac from UK",
+  "license": "CC BY-SA 2.0",
+  "web_file": "images/bc_bezeklik.jpg",
+  "site_web_size_mb": 0.38,
+  "orig_size": "4608x3456"
+ },
+ "bc_tiantishan": {
+  "条目": "天梯山石窟",
+  "commons_file": "Tang Painted Sculpture of Buddha & 2 Bodhisattvas, Tiantishan Grotto, Wuwei City, Gansu (10094984804).jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3ATang_Painted_Sculpture_of_Buddha_%26_2_Bodhisattvas%2C_Tiantishan_Grotto%2C_Wuwei_City%2C_Gansu_%2810094984804%29.jpg",
+  "author": "Gary Todd from Xinzheng, China",
+  "license": "CC0",
+  "web_file": "images/bc_tiantishan.jpg",
+  "site_web_size_mb": 0.25,
+  "orig_size": "5184x3456"
+ },
+ "bc_bingling": {
+  "条目": "炳灵寺石窟",
+  "commons_file": "Bingling Temple Grottoes 17.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3ABingling_Temple_Grottoes_17.jpg",
+  "author": "Thebrainchamber1",
+  "license": "CC BY-SA 4.0",
+  "web_file": "images/bc_bingling.jpg",
+  "site_web_size_mb": 0.58,
+  "orig_size": "4032x3024"
+ },
+ "bc_maijishan": {
+  "条目": "麦积山石窟",
+  "commons_file": "2016-12-15 Maijishan Grotten 麥積山石窟 anagoria 05.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3A2016-12-15_Maijishan_Grotten_%E9%BA%A5%E7%A9%8D%E5%B1%B1%E7%9F%B3%E7%AA%9F_anagoria_05.jpg",
+  "author": "Anagoria",
+  "license": "CC BY 3.0",
+  "web_file": "images/bc_maijishan.jpg",
+  "site_web_size_mb": 0.5,
+  "orig_size": "4032x2268"
+ },
+ "bc_mogao": {
+  "条目": "莫高窟",
+  "commons_file": "Dunhuang Mogao Ku 2013.12.31 09-32-51.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3ADunhuang_Mogao_Ku_2013.12.31_09-32-51.jpg",
+  "author": "Zhangzhugang",
+  "license": "CC BY-SA 4.0",
+  "web_file": "images/bc_mogao.jpg",
+  "site_web_size_mb": 0.37,
+  "orig_size": "5472x3648"
+ },
+ "bc_yungang": {
+  "条目": "云冈石窟",
+  "commons_file": "Carving inside Yungang Grottoes.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3ACarving_inside_Yungang_Grottoes.jpg",
+  "author": "Mathew Toll",
+  "license": "CC BY-SA 4.0",
+  "web_file": "images/bc_yungang.jpg",
+  "site_web_size_mb": 0.25,
+  "orig_size": "5948x4019"
+ },
+ "bc_longmen": {
+  "条目": "龙门石窟",
+  "commons_file": "Longmen Grottoes 20240810 012.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3ALongmen_Grottoes_20240810_012.jpg",
+  "author": "沈澄心",
+  "license": "CC0",
+  "web_file": "images/bc_longmen.jpg",
+  "site_web_size_mb": 0.55,
+  "orig_size": "3904x2928"
+ },
+ "bc_xiangtang_n": {
+  "条目": "北响堂山大佛洞（鼓山）",
+  "commons_file": "Xiangtangshan Northern Grottoes 10.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3AXiangtangshan_Northern_Grottoes_10.jpg",
+  "author": "Gary Lee Todd, Ph.D.",
+  "license": "CC0",
+  "web_file": "images/bc_xiangtang_n.jpg",
+  "site_web_size_mb": 0.25,
+  "orig_size": "5184x3456"
+ },
+ "bc_xiangtang_s": {
+  "条目": "南响堂山石窟（滏山·千佛洞）",
+  "commons_file": "Xiangtangshan Southern Grottoes 15.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3AXiangtangshan_Southern_Grottoes_15.jpg",
+  "author": "Gary Lee Todd, Ph.D.",
+  "license": "CC0",
+  "web_file": "images/bc_xiangtang_s.jpg",
+  "site_web_size_mb": 0.38,
+  "orig_size": "5184x3456"
+ },
+ "bc_mengshan": {
+  "条目": "蒙山大佛（晋阳西山大佛）",
+  "commons_file": "Mengshan Giant Buddha, Taiyuan.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3AMengshan_Giant_Buddha%2C_Taiyuan.jpg",
+  "author": "YOTTKP_cultural_trip.jpg: Dereklamnc1104\nderivative work: 如沐西风",
+  "license": "CC BY-SA 3.0",
+  "web_file": "images/bc_mengshan.jpg",
+  "site_web_size_mb": 0.2,
+  "orig_size": "1471x718"
  }
 }
