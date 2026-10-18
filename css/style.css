@@ -342,3 +342,21 @@ footer {
   .nav-links a:nth-child(n+5) { display: none; }
   .lightbox .lb-nav { display: none; }
 }
+
+/* ---- 英文简介（2026-10-17 增补）---- */
+.card-en {
+  margin: 12px 0 0; padding: 9px 0 0 11px;
+  border-left: 2px solid var(--line);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 12.5px; line-height: 1.66; color: var(--ink-faint);
+  letter-spacing: .01em;
+}
+.card-en .en-tag {
+  display: inline-block; margin-right: 6px; padding: 1px 5px;
+  font-family: Georgia, serif; font-size: 9.5px; letter-spacing: .12em;
+  text-transform: uppercase; color: var(--terracotta);
+  border: 1px solid rgba(180,84,58,.35); border-radius: 2px; vertical-align: 1px;
+}
+.card-en a { color: var(--ink-soft); text-decoration: none; border-bottom: 1px dotted var(--line); }
+.card-en a:hover { color: var(--terracotta); border-bottom-color: rgba(180,84,58,.5); }
+.card-en .en-none { font-style: italic; color: var(--ink-faint); }
