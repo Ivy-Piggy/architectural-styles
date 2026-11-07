@@ -394,3 +394,12 @@ footer {
   .tl-year { color:var(--terracotta); font-weight:600; border-right:0; padding-right:0; }
   .tl-w.near { margin-left:-3px; }
 }
+
+/* 史事同期的低调样式（粉红只留给建筑） */
+.tl-tongqi { display:inline-block; padding:1px 9px 2px; border-radius:999px;
+  background:var(--paper-3); border:1px solid var(--line); color:var(--ink-soft);
+  font-size:11px; letter-spacing:.2px; white-space:nowrap; }
+.tl-tongqi b { font-weight:600; margin-left:6px; color:var(--ink); letter-spacing:0; }
+.tl-w.ev.tongqi { border-left:3px solid var(--amber); background:#FBF6EA;
+  padding:2px 6px; margin-left:-9px; border-radius:0 4px 4px 0; color:var(--ink-soft); }
+@media (max-width:760px){ .tl-w.ev.tongqi { margin-left:-3px; } }
